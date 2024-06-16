@@ -1,6 +1,8 @@
 # Masters Research Project 2021
 Sensing of the Interactions between the Anaesthesia Face Mask and the Switching Nasal Interface during the Delivery of THRIVE in an Anaesthetic Environment.
 
+Key Skills: C++ for Firmware, Java (Processing) for PC application, Python/pandas/scipy for data processing and analysis, test equipment utilisation
+
 ![image](https://github.com/yuneychonlee/masters-project/assets/170559075/6606923e-7461-4d9d-a93b-55728af015ba)
 
 ## Abstract
