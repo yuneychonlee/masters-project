@@ -46,3 +46,9 @@ Block diagram of the sensor system integration:
 ## Demo of PC GUI
 Developed on Processing (a graphical library and integrated development environment) is able to track the anaesthesia mask orientation in 3D, present sensor information, and indicate prediction of a successful anaesthesia mask seal. The embedded software outputs the raw data by comma separated values, which can be logged and saved to CSV files. The logged data can be further processed for analysis; for this project a Python script and data analysis library “pandas” is used.
 ![image](https://github.com/yuneychonlee/masters-project/assets/170559075/88a3bc6b-7041-4bf5-aacd-25473286caa3)
+
+## Example of Data Analysis
+Measurement of force in Newtons on various sensing positions on the face mask against the residual flow in L/min.
+
+![image](https://github.com/yuneychonlee/masters-project/assets/170559075/a351d76b-d69e-4ed1-a4f0-cef181397223)
+
